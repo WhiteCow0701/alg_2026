@@ -1,2 +1,3 @@
 pygame>=2.6
--e ./pyvisalgo
+-e ./alg_2026/pyvisalgo
+python src/w01_ch1/ch1_1_find_max.py
